@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-11-14T12:00:00Z",
+  "lookback_days": 7,
+  "sep_events": [
+    {
+      "sepID": "2026-11-10T14:22:00-SEP-001",
+      "eventTime": "2026-11-10T14:22Z",
+      "instruments": [{"displayName": "GOES-16"}],
+      "protonFlux_10MeV_pfu": 2.4,
+      "linkedEvents": [{"activityID": "2026-11-10T13:45:00-FLR-001"}]
+    }
+  ],
+  "flares": [
+    {
+      "flrID": "2026-11-10T13:45:00-FLR-001",
+      "beginTime": "2026-11-10T13:40Z",
+      "peakTime": "2026-11-10T13:45Z",
+      "classType": "C8.4",
+      "sourceLocation": "N14W22"
+    },
+    {
+      "flrID": "2026-11-12T08:10:00-FLR-002",
+      "beginTime": "2026-11-12T08:02Z",
+      "peakTime": "2026-11-12T08:10Z",
+      "classType": "M1.2",
+      "sourceLocation": "S08E15"
+    }
+  ],
+  "cmes": [
+    {
+      "cmeID": "2026-11-10T15:00:00-CME-001",
+      "startTime": "2026-11-10T15:00Z",
+      "speed": 420.0,
+      "halfAngle": 28.0,
+      "note": "Slow halo CME, low Earth/Mars directed shock component."
+    }
+  ]
+}

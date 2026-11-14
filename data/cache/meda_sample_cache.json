@@ -1,0 +1,75 @@
+{
+  "cached_at": "2026-11-14T12:00:00Z",
+  "mission": "Mars 2020",
+  "rover": "Perseverance",
+  "sols": {
+    "950": {
+      "sol": 950,
+      "terrestrial_date": "2023-10-24",
+      "location": {
+        "site_name": "Jezero Delta Front Margin",
+        "latitude": 18.421,
+        "longitude": 77.442,
+        "elevation_m": -2480.0
+      },
+      "pressure_pa": {
+        "min": 718.0,
+        "max": 765.0,
+        "avg": 742.5
+      },
+      "air_temperature_c": {
+        "min": -82.4,
+        "max": -16.8,
+        "avg": -53.2
+      },
+      "ground_temperature_c": {
+        "min": -86.1,
+        "max": -11.4,
+        "avg": -51.0
+      },
+      "wind_speed_ms": {
+        "min": 0.4,
+        "max": 14.2,
+        "avg": 4.8
+      },
+      "wind_direction_deg": {
+        "dominant": 240.0
+      },
+      "relative_humidity_percent": 1.8
+    },
+    "951": {
+      "sol": 951,
+      "terrestrial_date": "2023-10-25",
+      "location": {
+        "site_name": "Jezero Delta Front Margin",
+        "latitude": 18.422,
+        "longitude": 77.443,
+        "elevation_m": -2479.2
+      },
+      "pressure_pa": {
+        "min": 720.0,
+        "max": 768.0,
+        "avg": 744.1
+      },
+      "air_temperature_c": {
+        "min": -80.9,
+        "max": -15.2,
+        "avg": -51.8
+      },
+      "ground_temperature_c": {
+        "min": -84.3,
+        "max": -9.8,
+        "avg": -49.5
+      },
+      "wind_speed_ms": {
+        "min": 0.2,
+        "max": 18.5,
+        "avg": 5.6
+      },
+      "wind_direction_deg": {
+        "dominant": 225.0
+      },
+      "relative_humidity_percent": 2.1
+    }
+  }
+}
